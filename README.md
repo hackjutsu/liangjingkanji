@@ -4,4 +4,4 @@
 
 🍵 高级键盘侠 <sup>Advanced Keyboard Man</sup>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true)
