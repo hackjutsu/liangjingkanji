@@ -2,14 +2,18 @@
 <img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/juejin.svg" alt="查看我的掘金" width="100" height="100"/>
 </a>
 
-
 🍵 高级键盘侠 <sup>Advanced Keyboard Man</sup> 
+
+<p align="left">
+<img src="https://img.shields.io/badge/GitHub-%E9%AB%98%E7%BA%A7%E9%94%AE%E7%9B%98%E4%BE%A0-brightgreen"/>
+<img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
+<img src="https://img.shields.io/badge/license-Apache-blue"/>
+<a href="https://jq.qq.com/?_wv=1027&k=vWsXSNBJ"><img src="https://img.shields.io/badge/QQ群-752854893-blue"/></a>
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true)
 
 <sub>如果你喜欢我的代码风格可以使用我的其他框架</sub> [『 全部开源项目 』](https://github.com/liangjingkanji?tab=repositories) 
-
-
 
 
 
