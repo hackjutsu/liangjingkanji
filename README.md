@@ -21,7 +21,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Net](https://github.com/liangjingkanji/Net)                 | Android上最强大的网络请求/异步任务库 <sup>[开发必备]</sup>   |
 | [BRV](https://github.com/liangjingkanji/BRV)                 | Android上最强大的RecyclerView库 <sup>[开发必备]</sup>        |
-| [Serialize](https://github.com/liangjingkanji/Serialize)     | 标准序列化工具, 创建自动读写本地/意外销毁恢复的字段, <sup>[开发必备]</sup>    |
+| [Serialize](https://github.com/liangjingkanji/Serialize)     | 标准序列化工具, 创建自动读写本地/意外销毁恢复的字段, <sup>[开发必备]</sup> |
 | [StateLayout](https://github.com/liangjingkanji/StateLayout) | 一行代码构建整个应用的缺省页                                 |
 | [StatusBar](https://github.com/liangjingkanji/StatusBar)     | 一行代码配置透明状态栏和自定义颜色 <sup>[开发必备]</sup>     |
 | [Channel](https://github.com/liangjingkanji/Channel)         | 一行代码发送和接收事件LiveData <sup>[开发必备]</sup>         |
@@ -32,6 +32,7 @@
 | [AutoDispose](https://github.com/liangjingkanji/AutoDispose) | 依据生命周期自动解绑订阅, 比UberAutoDispose/RxLifeCycle更简单 |
 | [RxBus](https://github.com/liangjingkanji/RxBus)             | 支持 标签事件/线程切换/Kotlin特性/无需注册注销 的 RxBus      |
 | [PlexMono](https://github.com/liangjingkanji/PlexMono)       | 专注于代码排版的字体, IBM Plex Mono 字体 (连字特性)          |
-| [SougouSkin](https://github.com/liangjingkanji/SougouSkin)   | 搜狗输入法皮肤                                               |
+| [SougouSkin](https://github.com/liangjingkanji/SougouSkin)   | 简约的搜狗输入法皮肤                                         |
+| [DarculaXcodeTheme](https://github.com/liangjingkanji/DarculaXcodeTheme) | Xcode主题                                                    |
 | [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) | Typora主题                                                   |
 
