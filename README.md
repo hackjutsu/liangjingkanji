@@ -31,7 +31,8 @@
 | [Engine](https://github.com/liangjingkanji/Engine)           | 基础组件库, 推荐复制粘贴而不是全部依赖![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/engine?style=social) |
 | [AutoDispose](https://github.com/liangjingkanji/AutoDispose) | 依据生命周期自动解绑订阅, 比UberAutoDispose/RxLifeCycle更简单 |
 | [RxBus](https://github.com/liangjingkanji/RxBus)             | 支持 标签事件/线程切换/Kotlin特性/无需注册注销 的 RxBus      |
-| [PlexMono](https://github.com/liangjingkanji/PlexMono)       | 专注于代码排版的字体, IBM Plex Mono 字体 (连字特性)          |
+| [PTCode](https://github.com/liangjingkanji/PTCode)           | 偏行书的等宽字体, 整体整齐, 单看洒脱. 连字特性(Ligatures)    |
+| [PlexMono](https://github.com/liangjingkanji/PlexMono)       | 非常工整, 没有任何多余笔锋的字体, 连字特性(Ligatures)        |
 | [SougouSkin](https://github.com/liangjingkanji/SougouSkin)   | 简约的搜狗输入法皮肤                                         |
 | [DarculaXcodeTheme](https://github.com/liangjingkanji/DarculaXcodeTheme) | Xcode主题                                                    |
 | [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) | Typora主题 ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/drakeTyporaTheme?style=social) |
