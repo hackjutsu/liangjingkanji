@@ -1,6 +1,5 @@
 <a href="https://juejin.im/user/57c9a80379bc440063f3e0dc/posts">
-<img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/juejin.svg" alt="查看我的掘金" width="100" height="100"/>
-</a>
+<img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/juejin.svg" alt="查看我的掘金" width="100" height="100"/></a>
 
 🍵 高级键盘侠 <sup>Advanced Keyboard Man</sup> 
 
@@ -13,7 +12,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true)
 
-<sub>如果你喜欢我的代码风格可以使用我的其他框架</sub> [『 全部开源项目 』](https://github.com/liangjingkanji?tab=repositories) 
+<sub>如果你喜欢我的代码风格可以使用我的其他框架</sub> [『 全部开源项目 』](https://github.com/liangjingkanji?tab=repositories)  [『 在线简历 』](https://liangjingkanji.github.io/Resume-Template/) 
 
 
 
@@ -36,4 +35,5 @@
 | [SougouSkin](https://github.com/liangjingkanji/SougouSkin)   | 简约的搜狗输入法皮肤                                         |
 | [DarculaXcodeTheme](https://github.com/liangjingkanji/DarculaXcodeTheme) | Xcode主题                                                    |
 | [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) | Typora主题 ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/drakeTyporaTheme?style=social) |
+| [简历模板](https://github.com/liangjingkanji/Resume-Template) | 使用DrakeTyporaTheme主题快速生成简洁的个人简历. [在线预览](https://liangjingkanji.github.io/Resume-Template/) |
 
