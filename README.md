@@ -4,28 +4,30 @@
 
 <p align="center">
 <strong>
-⌨️ 高级键盘侠 &nbsp;&nbsp;&nbsp;
 ⚔ 天南第一键修&nbsp;&nbsp;&nbsp;
-🍵一杯茶🚬一根烟一行代码敲一天&nbsp;&nbsp;&nbsp;
-🖥 我是一个作家
 </strong>
 </p>
 
+<p align="center">
+<a href="https://github.com/liangjingkanji?tab=repositories">『 全部开源项目 』</a>
+<a href="https://liangjingkanji.github.io/Resume-Template/">『 在线简历 』</a>
+<a href="https://liangjingkanji.github.io/document/">『 贡献代码 』</a>
+<a href="https://juejin.im/user/57c9a80379bc440063f3e0dc/posts">『 博客文章 』</a>
+</p>
+
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true" width="450"/>
+</p>
+<br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub-%E9%AB%98%E7%BA%A7%E9%94%AE%E7%9B%98%E4%BE%A0-brightgreen"/>
+<img src="https://img.shields.io/badge/GitHub-天南第一键修-brightgreen"/>
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 <a href="https://jq.qq.com/?_wv=1027&k=vWsXSNBJ"><img src="https://img.shields.io/badge/QQ群-752854893-blue"/></a>
 </p>
 
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true"/>
-</p>
-
-[『 全部开源项目 』](https://github.com/liangjingkanji?tab=repositories)  [『 在线简历 』](https://liangjingkanji.github.io/Resume-Template/) 
-   [『 贡献代码 』](https://liangjingkanji.github.io/document/)   [『 博客文章 』](https://juejin.im/user/57c9a80379bc440063f3e0dc/posts)
 
 <a href="https://juejin.im/user/57c9a80379bc440063f3e0dc/posts">
 <img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/juejin.svg" alt="查看我的掘金" width="100" height="100"/></a>
