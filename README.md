@@ -1,24 +1,34 @@
-<a href="https://juejin.im/user/57c9a80379bc440063f3e0dc/posts">
-<img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/juejin.svg" alt="查看我的掘金" width="100" height="100"/></a>
+<p align="center">
+<img src="https://i.imgur.com/oF6vqfx.jpg" width="50%"/>
+</p>
 
-🍵 高级键盘侠 <sup>Advanced Keyboard Man</sup> 
+<p align="center">
+<strong>
+⌨️ 高级键盘侠 <sup>Advanced Keyboard Man</sup>&nbsp;&nbsp;&nbsp;
+⚔ 天南第一键修&nbsp;&nbsp;&nbsp;
+🍵 一杯茶一根烟一行代码敲一天
+</strong>
+</p>
 
-<p align="left">
+
+<p align="center">
 <img src="https://img.shields.io/badge/GitHub-%E9%AB%98%E7%BA%A7%E9%94%AE%E7%9B%98%E4%BE%A0-brightgreen"/>
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 <a href="https://jq.qq.com/?_wv=1027&k=vWsXSNBJ"><img src="https://img.shields.io/badge/QQ群-752854893-blue"/></a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true)
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true"/>
+</p>
 
-<sub>如果你喜欢我的代码风格可以使用我的其他框架</sub> [『 全部开源项目 』](https://github.com/liangjingkanji?tab=repositories)  [『 在线简历 』](https://liangjingkanji.github.io/Resume-Template/) 
+[『 全部开源项目 』](https://github.com/liangjingkanji?tab=repositories)  [『 在线简历 』](https://liangjingkanji.github.io/Resume-Template/) 
+   [『 贡献代码 』](https://liangjingkanji.github.io/document/)   [『 博客文章 』](https://juejin.im/user/57c9a80379bc440063f3e0dc/posts)
 
-
-
-成为作者之一: [入门教程](https://liangjingkanji.github.io/document/)
-
-
+<a href="https://juejin.im/user/57c9a80379bc440063f3e0dc/posts">
+<img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/juejin.svg" alt="查看我的掘金" width="100" height="100"/></a>
+<br>
 
 | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
