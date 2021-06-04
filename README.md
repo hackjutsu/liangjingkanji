@@ -6,7 +6,7 @@
 <strong>
 ⌨️ 高级键盘侠 <sup>Advanced Keyboard Man</sup>&nbsp;&nbsp;&nbsp;
 ⚔ 天南第一键修&nbsp;&nbsp;&nbsp;
-🍵一杯茶🚬一根烟一行代码👊�敲一天
+🍵一杯茶🚬一根烟一行代码敲一天
 </strong>
 </p>
 
