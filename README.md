@@ -1,11 +1,9 @@
-<p align="center">
-<img src="https://i.imgur.com/oF6vqfx.jpg" width="50%"/>
-</p>
+<h1 align="center">
+⚔ 天南第一键修&nbsp;&nbsp;&nbsp;
+</h1>
 
 <p align="center">
-<strong>
-⚔ 天南第一键修&nbsp;&nbsp;&nbsp;
-</strong>
+<img src="https://i.imgur.com/oF6vqfx.jpg" width="50%"/>
 </p>
 
 <p align="center">
