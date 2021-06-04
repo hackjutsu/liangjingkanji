@@ -4,9 +4,10 @@
 
 <p align="center">
 <strong>
-⌨️ 高级键盘侠 <sup>Advanced Keyboard Man</sup>&nbsp;&nbsp;&nbsp;
+⌨️ 高级键盘侠 &nbsp;&nbsp;&nbsp;
 ⚔ 天南第一键修&nbsp;&nbsp;&nbsp;
-🍵一杯茶🚬一根烟一行代码敲一天
+🍵一杯茶🚬一根烟一行代码敲一天&nbsp;&nbsp;&nbsp;
+🖥 我是一个作家
 </strong>
 </p>
 
@@ -40,7 +41,7 @@
 | [StatusBar](https://github.com/liangjingkanji/StatusBar)     | 一行代码配置透明状态栏和自定义颜色 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/StatusBar?style=social) |
 | [Channel](https://github.com/liangjingkanji/Channel)         | 一行代码发送和接收事件LiveData <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/Channel?style=social) |
 | [Tooltip](https://github.com/liangjingkanji/Tooltip)         | 提醒工具(Toast/ProgressDialog), Kotlin特性/异步显示/无覆盖/全局单例配置/自定义等级/生命周期 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
-| [DebugKit](https://github.com/liangjingkanji/debugkit)       | 开发调试悬浮窗口工具![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
+| [debugKit](https://github.com/liangjingkanji/debugkit)       | 开发调试悬浮窗口工具![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
 | [LogCat](https://github.com/liangjingkanji/LogCat)           | 日志输出工具 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/logcat?style=social) |
 | [Engine](https://github.com/liangjingkanji/Engine)                | 基础组件库, 推荐复制粘贴而不是全部依赖![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/engine?style=social) |
 | [AutoDispose](https://github.com/liangjingkanji/AutoDispose) | 依据生命周期自动解绑订阅, 比UberAutoDispose/RxLifeCycle更简单 |
