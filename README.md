@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/oF6vqfx.jpg" width="50%"/>
+<a href="https://jq.qq.com/?_wv=1027&k=vWsXSNBJ"><img src="https://i.imgur.com/oF6vqfx.jpg" alt="点击开喷" width="50%"/></a>
 </p>
 
 <h3 align="center">
