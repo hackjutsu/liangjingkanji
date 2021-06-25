@@ -52,3 +52,26 @@
 | [DarculaXcodeTheme](https://github.com/liangjingkanji/DarculaXcodeTheme) | Xcode主题                                                    |
 | [简历模板](https://github.com/liangjingkanji/Resume-Template) | 使用DrakeTyporaTheme主题快速生成简洁的个人简历. [在线预览](https://liangjingkanji.github.io/Resume-Template/) |
 
+## Android开发全家桶
+
+```groovy
+allprojects {
+    repositories {
+        // ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3" // 协程
+implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.3"
+implementation "com.squareup.okhttp3:okhttp:4.9.1"
+implementation 'com.github.liangjingkanji:Net:3.0.13' // 网络请求
+implementation 'com.github.liangjingkanji:BRV:1.3.23' // 列表
+implementation 'com.github.liangjingkanji:Serialize:1.2.0' // 数据序列化
+implementation 'com.github.liangjingkanji:StatusBar:1.1.1' // 透明状态栏
+implementation 'com.github.liangjingkanji:Channel:1.1.4' // 事件消息分发
+implementation 'com.github.liangjingkanji:debugkit:1.2.11' // 调试窗口工具
+implementation 'com.github.liangjingkanji:LogCat:1.1.0' // 日志输出
+implementation 'com.github.liangjingkanji:Tooltip:1.1.2' // 消息提醒
+implementation 'com.github.liangjingkanji:Engine:0.0.24' // 快速开发基础库
+```
